@@ -1,0 +1,10 @@
+Gastronomia: o prato apresentado pelo chef | https://galeriamayaraalba.com/api/vid/n01.mp4
+Música: performance em traje social | https://galeriamayaraalba.com/api/vid/n02.mp4
+Marca: fala direta com legenda em destaque | https://galeriamayaraalba.com/api/vid/n03.mp4
+Beleza: lifestyle com joias e close | https://galeriamayaraalba.com/api/vid/n04.mp4
+Esporte: corrida em plano aberto | https://galeriamayaraalba.com/api/vid/n05.mp4
+Estética: depoimento sobre cuidados com a pele | https://galeriamayaraalba.com/api/vid/n06.mp4
+Preto e branco: fala institucional | https://galeriamayaraalba.com/api/vid/n07.mp4
+Bastidores: closet e preparação | https://galeriamayaraalba.com/api/vid/n08.mp4
+Negócios: fala com número em destaque | https://galeriamayaraalba.com/api/vid/n09.mp4
+Clínica: detalhe do equipamento | https://galeriamayaraalba.com/api/vid/n10.mp4
